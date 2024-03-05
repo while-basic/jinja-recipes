@@ -1,0 +1,84 @@
+{
+    "recipes": [
+        {
+            "id": "1",
+            "title": "Veggie Carbonara",
+            "image": "Veggie_carbonara.jpg",
+            "time": 20,
+            "description": "A vegetarian twist on the classic Italian pasta dish with eggs, cheese, and vegetarian bacon.",
+            "vegan": false
+        },
+        {
+            "id": "2",
+            "title": "Mushroom Risotto",
+            "image": "Mushroom_risotto.jpg",
+            "time": 40,
+            "description": "Creamy Arborio rice cooked with mushrooms, onions, garlic, and vegetable broth, finished with Parmesan cheese.",
+            "vegan": true
+        },
+        {
+            "id": "3",
+            "title": "Quinoa Salad",
+            "image": "Quinoa_salad.jpg",
+            "time": 25,
+            "description": "A refreshing salad made with cooked quinoa, cherry tomatoes, cucumbers, red onions, feta cheese, and a lemon vinaigrette.",
+            "vegan": true
+        },
+        {
+            "id": "4",
+            "title": "Stuffed Bell Peppers",
+            "image": "Stuffed_bell_peppers.jpg",
+            "time": 50,
+            "description": "Bell peppers filled with a savory mixture of rice, black beans, corn, tomatoes, and spices, topped with cheese and baked until tender.",
+            "vegan": true
+        },
+        {
+            "id": "5",
+            "title": "Vegetable Stir-Fry",
+            "image": "Vegetable_stir_fry.jpg",
+            "time": 30,
+            "description": "Assorted vegetables such as broccoli, bell peppers, carrots, and snap peas stir-fried in a flavorful sauce made with soy sauce, garlic, and ginger.",
+            "vegan": true
+        },
+        {
+            "id": "6",
+            "title": "Eggplant Parmesan",
+            "image": "Eggplant_parmesan.jpg",
+            "time": 60,
+            "description": "Slices of eggplant breaded and baked until crispy, then layered with marinara sauce and melted mozzarella cheese.",
+            "vegan": true
+        },
+        {
+            "id": "7",
+            "title": "Chickpea Curry",
+            "image": "Chickpea_curry.jpg",
+            "time": 45,
+            "description": "A fragrant curry made with chickpeas, onions, garlic, tomatoes, and a blend of Indian spices, served with rice or naan bread.",
+            "vegan": true
+        },
+        {
+            "id": "8",
+            "title": "Caprese Salad",
+            "image": "Caprese_salad.jpg",
+            "time": 15,
+            "description": "A simple Italian salad made with fresh tomatoes, mozzarella cheese, basil leaves, olive oil, and balsamic glaze.",
+            "vegan": true
+        },
+        {
+            "id": "9",
+            "title": "Vegetable Lasagna",
+            "image": "Vegetable_lasagna.jpg",
+            "time": 70,
+            "description": "Layers of lasagna noodles, ricotta cheese, assorted vegetables such as spinach, zucchini, and mushrooms, marinara sauce, and melted cheese.",
+            "vegan": true
+        },
+        {
+            "id": "10",
+            "title": "Falafel Wrap",
+            "image": "Falafel_wrap.jpg",
+            "time": 35,
+            "description": "Crispy chickpea patties (falafel) wrapped in a warm pita with lettuce, tomatoes, cucumbers, onions, and tahini sauce.",
+            "vegan": true
+        }
+    ]
+}
